@@ -2,12 +2,12 @@
 The Rank transformation selects the top or bottom range of data. Use the Rank transformation to return the largest or smallest numeric values in a group. You can also use the Rank transformation to return strings at the top or bottom of the mapping sort order.
 
 ## Steps to create rank transformation
-* Bring emp table in source analyzer
+* Bring emp table in source analyzer.
 * In target designer drag emp table from source,rename the source table and click on generate/execute sql to create the structure of the target table.
 * Creae mapping,drag source and target table into the mapping designer.Create rank transformation by default it is in Rank Index state.
 * Map the source qualifier output to the rank transformation and rank transformation output to target of input.
-* Double click on Rank transformation-->go to properties-->select Top/Bottom--->Number of rank as 5--->Case sensitive string comparision as
-* Save the mapping and go to workflow designer,in that create session and workflow,save the workflow and click on start workflow
+* Double click on Rank transformation-->go to properties-->select Top/Bottom--->Number of rank as 5--->Case sensitive string comparision as✅.
+* Save the mapping and go to workflow designer,in that create session and workflow,save the workflow and click on start workflow.
 
 ## Mapping
 ![RANK](https://user-images.githubusercontent.com/98802184/236690537-ba96bcb6-0603-415f-a3ed-2aee540dbdfd.PNG)
