@@ -21,5 +21,10 @@ The Rank transformation selects the top or bottom range of data. Use the Rank tr
 ## ORACLE OUTPUT
 ![RANK_OUTPUT](https://user-images.githubusercontent.com/98802184/236690656-d8b08c60-b3e9-4cd4-a9c4-20e3bea6ba46.PNG)
 
+## INTERVIEW QUESTIONS
+*
+*
+*
+
 
 
