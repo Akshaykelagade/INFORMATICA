@@ -1,5 +1,6 @@
 ## ROUTER TRANSFORMATION
-The Router transformation is an active transformation that you can use to apply a condition to incoming data. In a Router transformation, Data Integration. uses a filter condition to evaluate each row of incoming data. It tests the conditions of each user-defined group before processing the default group.
+* The Router transformation is an active transformation that you can use to apply a condition to incoming data. In a Router transformation, Data Integration. uses a filter condition to evaluate each row of incoming data. It tests the conditions of each user-defined group before processing the default group.
+* If we need to test the same input data based on multiple conditions ,use a router trasformation in maping instead of creating multiple filter transformations to perform same task.
 
 ## Steps to create router transformation
 * Bring EMP table from database to soure analyser.
@@ -20,7 +21,7 @@ The Router transformation is an active transformation that you can use to apply 
 ![router_session](https://user-images.githubusercontent.com/98802184/236833284-b2b2630c-2a42-47f7-8308-4a931cddc454.PNG)
 
 ## ORACLE Outputs
-### Salesman
+### SALESMAN
 ![router_sales](https://user-images.githubusercontent.com/98802184/236833410-14446e31-01ba-47a6-9ad0-85df7db92806.PNG)
 
 ### CLERK
@@ -34,3 +35,4 @@ The Router transformation is an active transformation that you can use to apply 
 ![router_others](https://user-images.githubusercontent.com/98802184/236833755-e67f81b7-d5b3-4b2b-bac2-f1f8403e8f8a.PNG)
 
 
+## INTERVIEW QUESTIONS
