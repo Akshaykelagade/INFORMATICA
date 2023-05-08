@@ -1,3 +1,15 @@
+## ROUTER TRANSFORMATION
+The Router transformation is an active transformation that you can use to apply a condition to incoming data. In a Router transformation, Data Integration. uses a filter condition to evaluate each row of incoming data. It tests the conditions of each user-defined group before processing the default group.
+
+## Steps to create router transformation
+* Bring EMP table from database to soure analyser.
+* Drag the EMP source table 4 times to target designer and rename each tables.
+* Rename first table as emp_salesman,second table as emp_clerk,third table as emp_manager and fourth table as emp_others.Here third and fourth table we take as flat files.
+* Go to target----> click on generate and execute sql
+* Create mapping in that drag source table and 4 target tables.Create Router Transformer ,map source qualifier output to Router of input.Double click on Router go to group and add 3 groups and 1 default.
+* Group names and their conditions are shown in the condtions image below.
+* After adding conditions to Router map the Router output to Target of input.
+* Save the mapping and Go to workflow designer in that create session and workflow.After that start the work flow and see the output which is shown in session output below.
 ## Mapping
 ![router](https://user-images.githubusercontent.com/98802184/236833014-6ac0cd07-6b3f-420c-8893-7700f1eca7ef.PNG)
 
