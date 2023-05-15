@@ -16,3 +16,11 @@ Aggregator transformation is an active transformation. And it is used to perform
 ## Filter Condition
 ![AGRE_FILTER_COND](https://github.com/Akshaykelagade/INFORMATICA/assets/98802184/3952d019-4036-4ae3-8df0-cf61981f2f7b)
 
+## Session Output
+![AGREGATOR_SESSION](https://github.com/Akshaykelagade/INFORMATICA/assets/98802184/89ea612d-25de-4013-92d6-b0f052e3e07c)
+
+## ORACLE Output
+![agreGATOR_TARGET OUTPUT](https://github.com/Akshaykelagade/INFORMATICA/assets/98802184/9348373f-bb6a-49a7-a8ff-d867aeee5302)
+
+
+
