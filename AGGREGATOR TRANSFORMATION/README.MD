@@ -1,7 +1,7 @@
 ## AGGREAGATOR TRANSFORMATION
 Aggregator transformation is an active transformation. And it is used to perform calculations on the data such as sums, averages, counts, etc. The integration service stores the group of data and row data in the aggregate cache. The Aggregator Transformation is more beneficial in comparison to the SQL.
 
-## Steps to exhicute Aggegator Transformation
+## Steps to execute Aggegator Transformation
 * Bring source table to source analyazer from database.
 * Drag source table to target designer and add required number of columns according to STM doc,rename the target table and go for generate and exhicute sql .
 * Create mapping in mapping desiger and Drag source and target table to mapping designer.
