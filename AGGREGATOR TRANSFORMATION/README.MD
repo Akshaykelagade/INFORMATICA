@@ -2,9 +2,14 @@
 Aggregator transformation is an active transformation. And it is used to perform calculations on the data such as sums, averages, counts, etc. The integration service stores the group of data and row data in the aggregate cache. The Aggregator Transformation is more beneficial in comparison to the SQL.
 
 ## Steps to exhicute Aggegator Transformation
-* Bring source table to source analyazer
-*
-*
+* Bring source table to source analyazer from database.
+* Drag source table to target designer and add required number of columns according to STM doc,rename the target table and go for generate and exhicute sql .
+* Create mapping in mapping desiger and Drag source and target table to mapping designer.
+* Take expression transformation,map all columns of source qualifier to expression transformation.Add 4 new columns which are highlighted in yellow colour in STM doc.Create first two         columns as varible port and later two as output port. In description column add condition as shown in the expression condition image.
+* Take Aggregator transformation and map all columns from expression transformation.Give the condtions for required columns as shown in below aggregator condition image.
+* Take Filter transformation and map all the colomns from aggregator transformer.Give the condition for description column as shown in below filter condition image.
+* Map required columns from filter transformer to target table and save the designer .
+* Go to work flow and run the session.
 
 ## STM DOCUMENT
 ![1684152762863](https://github.com/Akshaykelagade/INFORMATICA/assets/98802184/f202a5a8-5316-42bd-b32a-f515c7fe01cb)
@@ -30,4 +35,7 @@ Aggregator transformation is an active transformation. And it is used to perform
 ![agreGATOR_TARGET OUTPUT](https://github.com/Akshaykelagade/INFORMATICA/assets/98802184/9348373f-bb6a-49a7-a8ff-d867aeee5302)
 
 
-
+## Interview Questions
+*
+*
+*
