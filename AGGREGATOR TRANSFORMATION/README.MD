@@ -2,6 +2,13 @@
 Aggregator transformation is an active transformation. And it is used to perform calculations on the data such as sums, averages, counts, etc. The integration service stores the group of data and row data in the aggregate cache. The Aggregator Transformation is more beneficial in comparison to the SQL.
 
 ## Steps to exhicute Aggegator Transformation
+*
+*
+*
+
+## STM DOCUMENT
+![1684152762863](https://github.com/Akshaykelagade/INFORMATICA/assets/98802184/f202a5a8-5316-42bd-b32a-f515c7fe01cb)
+
 
 
 ## Mapping
