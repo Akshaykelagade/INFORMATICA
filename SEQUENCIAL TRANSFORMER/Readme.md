@@ -1,7 +1,7 @@
 # Sequential Transformation
 Sequential transformation here data's are arranged in sequential manner it is passive and connected transformation 
 
-#Steps to execute sequential transformation
+# Steps to execute sequential transformation
 • Bring source table to source analyazer from database
 • Drag source table to Target and Rename the table according to STM doc and go for generate and exhicute sql
 • Add column in Target > as SL NO > apply > ok
