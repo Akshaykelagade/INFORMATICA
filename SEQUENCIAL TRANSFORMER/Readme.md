@@ -12,3 +12,7 @@ Sequential transformation here data's are arranged in sequential manner it is pa
 * If we run the workflow once again then it will append from next slno below the previous results. 
 * Truncate the table and execute now it will start from slno. 
 * If we want to set new current value then we have to disconnect and connect the mapping once again. 
+
+
+
+
