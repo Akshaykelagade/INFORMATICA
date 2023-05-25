@@ -1,5 +1,5 @@
 # Sequential Transformation
-Sequential transformation here data's are arranged in sequential manner it is passive and connected transformation. 
+In Sequential transformation the data's are arranged in sequential manner. It is passive and connected transformation. 
 
 # Steps to execute sequential transformation
 * Bring source table to source analyazer from database. 
