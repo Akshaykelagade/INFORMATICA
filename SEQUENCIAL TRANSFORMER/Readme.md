@@ -13,6 +13,19 @@ In Sequential transformation the data's are arranged in sequential manner. It is
 * Truncate the table and execute now it will start from slno. 
 * If we want to set new current value then we have to disconnect and connect the mapping once again. 
 
+# Mapping
+![WhatsApp Image 2023-05-24 at 10 05 26 PM](https://github.com/Akshaykelagade/INFORMATICA/assets/98802184/10c472fc-7f52-4dd0-8c76-5bcc0fd12fcd)
+
+# Conditions
+![WhatsApp Image 2023-05-24 at 10 10 27 PM](https://github.com/Akshaykelagade/INFORMATICA/assets/98802184/ca595ba1-d1ca-49ca-b03d-8d10d739cc4c)
+
+
+# Session Output
+![WhatsApp Image 2023-05-24 at 10 10 29 PM](https://github.com/Akshaykelagade/INFORMATICA/assets/98802184/e79e701e-3049-46f6-a553-66c3373e3e7c)
+
+# Oracle Output
+![WhatsApp Image 2023-05-24 at 10 10 30 PM](https://github.com/Akshaykelagade/INFORMATICA/assets/98802184/1c6295df-479b-4228-8b2a-f0292fed1630)
+
 
 
 
