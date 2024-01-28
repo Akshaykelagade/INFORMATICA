@@ -3,6 +3,10 @@
 ## In-Out Parameter 
 ![image](https://github.com/Akshaykelagade/INFORMATICA/assets/98802184/65bd6231-f8fb-461f-90bd-3031f4c24e39)
 
+## Source Condition
+![image](https://github.com/Akshaykelagade/INFORMATICA/assets/98802184/cf5c7c14-5f7e-4595-9778-37044428cd6d)
+
+
 ## Variable Port in Expression
 ![image](https://github.com/Akshaykelagade/INFORMATICA/assets/98802184/0dcda01d-b9e2-426d-b50c-6786cac6baac)
 
